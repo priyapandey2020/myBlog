@@ -1,0 +1,1 @@
+It is js file
